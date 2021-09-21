@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/

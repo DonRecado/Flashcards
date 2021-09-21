@@ -1,0 +1,2 @@
+Paris	France	0
+Japan	Tokyo	1

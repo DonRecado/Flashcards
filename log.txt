@@ -1,0 +1,24 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+lol.txt
+2 cards have been loaded.
+
+adk
+ask
+How many times to ask?
+2
+Print the definition of "Paris":
+France
+Correct!
+Print the definition of "Japan":
+Tokyo
+
+1
+Missi
+Wrong. The right answer is "France".
+hardest card
+There are no cards with errors.
+
+log
+log.txt

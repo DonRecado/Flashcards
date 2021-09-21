@@ -1,0 +1,39 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+lol.txt
+2 cards have been loaded.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics have been reset.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+2
+Print the definition of "Paris":
+asdf
+Wrong. The right answer is "France".
+Print the definition of "Japan":
+asdf
+Wrong. The right answer is "Tokyo".
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are "Paris" "Japan". You have 1 errors answering them.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats\
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics have been reset.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+There are no cards with errors.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+loggi.txt
